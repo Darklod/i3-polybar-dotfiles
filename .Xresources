@@ -1,0 +1,69 @@
+*background: #25252c
+*foreground: #ffffff
+*cursorColor: #ffffff
+
+*color0: #25252c
+*color8: #b3cfd9
+*color1: #9abfcd
+*color9: #9abfcd
+*color2: #679fb4
+*color10: #679fb4
+*color3: #357f9b
+*color11: #357f9b
+*color4: #036082
+*color12: #036082
+*color5: #024c68
+*color13: #024c68
+*color6: #5e8d87
+*color14: #01394e
+*color7: #b3cfd9
+*color15:                         #E8E8E8
+
+URxvt.font: xft:Source Code Pro:size=10.5
+URxvt.depth:                      32
+URxvt*scrollBar:                  false
+URxvt*mouseWheelScrollPage:       false
+URxvt*cursorBlink:                true
+URxvt*saveLines:                  5000
+URxvt*internalBorder: 5
+URxvt*geometry: 70x19
+
+Xcursor.theme: Breeze
+
+
+! special
+*.foreground: #93a1a1
+*.background: #3c3b37
+*.cursorColor: #93a1a1
+
+! black
+*.color0: #5f5f5f
+*.color8: #828282
+
+! red
+*.color1: #d96468
+*.color9: #d98f93
+
+! green
+*.color2: #a2d964
+*.color10: #b8d98f
+
+! yellow
+*.color3: #d9c964
+*.color11: #d9cf8f
+
+! blue
+*.color4: #64a2d9
+*.color12: #8f99d9
+
+! magenta
+*.color5: #9a64d9
+*.color13: #b08fd9
+
+! cyan
+*.color6: #64d9d5
+*.color14: #8fd9d5
+
+! white
+*.color7: #989898
+*.color15: #c5c5c5
